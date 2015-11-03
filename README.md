@@ -1,5 +1,6 @@
 # Sort
 This repository is for sort algorithms 
+
 1.Selection Sort是每次都在陣列中挑最小的出來，插在陣列的最前面，也因為每回合一定要做動作，所以最好、平均、最壞的複雜度都是O(n^2)
 
 2.Insection Sort是從陣列的第二個元素開始往前看，每次都檢查陣列前面的元素，把目前這個元素插到最佳的位置(前面的陣列元素都是排序好的)
@@ -29,3 +30,5 @@ int swap(int indexA, int indexB, double[] array)
   array[indexA] = array[indexB];
   array[indexB] = tmp;
 }
+
+3.http://javarevisited.blogspot.tw/2013/02/swap-two-numbers-without-third-temp-variable-java-program-example-tutorial.html

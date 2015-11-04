@@ -1,4 +1,5 @@
 
+
 public class InsectionSort
 {
 	static double[] input =

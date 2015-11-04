@@ -1,4 +1,5 @@
 
+
 public class SelectinSort
 {
 	static double[] input =

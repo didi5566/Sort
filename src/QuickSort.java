@@ -1,4 +1,5 @@
 
+
 public class QuickSort
 {
 	static double[] input =

@@ -1,4 +1,5 @@
 
+
 public class BubbleSort
 {
 	static double[] input =
